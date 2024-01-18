@@ -1,6 +1,6 @@
 {
   "name": "react-feather-icon",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React component for Feather icons",
   "main": "build/index.js",
   "module": "dist/index.js",
@@ -34,9 +34,9 @@
   "author": "Sonu Bamniya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sbamniya/react-feather/issues"
+    "url": "https://github.com/sbamniya/react-feather-icons/issues"
   },
-  "homepage": "https://github.com/sbamniya/react-feather#readme",
+  "homepage": "https://github.com/sbamniya/react-feather-icons#readme",
   "devDependencies": {
     "@babel/cli": "7.4.4",
     "@babel/core": "7.4.5",
